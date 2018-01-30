@@ -16,7 +16,7 @@ body{
 	}
 h1, h2, h3, h4, a, p
 {
-font-family: 'Source Code Pro', monospace;
+font-family: 'Raleway', sans-serif;
 
 	
 }
@@ -24,7 +24,7 @@ font-family: 'Source Code Pro', monospace;
 
 
 .header a {
-	font-family: 'Source Code Pro', monospace;
+	font-family: 'Raleway', sans-serif;
 	font-size: 40pt;
 	color: #fff;
 	margin-top: 150px;
@@ -75,7 +75,7 @@ font-family: 'Source Code Pro', monospace;
 .mobile-menu {
 	display: none;
 	height: 100px;
-	background-color: #263238;
+	background-color: #FF0040;
 	text-align: right;
 	padding-right: 50px;
 }
